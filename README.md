@@ -11,6 +11,8 @@ Always been a fan of technology and things related to it. Love coding. Love musi
 <br><br>
 
 ## Tools:
+
+<img align="left" alt="Android" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/228/android-512.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Sublime text" width="30px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
 <img align="left" alt="Android Studio" width="30px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />
