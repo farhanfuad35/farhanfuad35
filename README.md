@@ -18,10 +18,10 @@ Always been a fan of technology and things related to it. Love coding. Love musi
 <img align="left" alt="Codeblocks" width="30px" src="https://img.utdstc.com/icons/code-blocks.png:75" />
 <img align="left" alt="Matlab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 
-
 <img align="left" alt="Html" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
 <img align="left" alt="Css" width="30px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" />
 <img align="left" alt="Django" width="30px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />
+<img align="left" alt="Apache" width="30px" src="https://download.logo.wine/logo/Apache_HTTP_Server/Apache_HTTP_Server-Logo.wine.png" />
 
 <img align="left" alt="Nodejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
 <img align="left" alt="Mysql" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
