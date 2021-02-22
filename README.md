@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
-I am Farhan Fuad, a cs undergraguate, currently studying at the University of Dhaka. <br>
-Always been a fan of technology and things related to it. Love coding. Love music. Love playing my guitar. Love books. Love spending my time and effort on something that's meaningful. Cannot say I have been very successful about it so far but never giving up waiting for the right opportunity. Wish me luck 🙌🏼
+I am Farhan Fuad, a cs undergraduate, currently studying at the University of Dhaka. <br>
+Always been a fan of technology and things related to it. Love coding. Love music. Love playing guitar. Love books. Love spending my time and effort on something that's meaningful. Cannot say I have been very successful about it so far but never giving up waiting for the right opportunity. Wish me luck 🙌🏼
 
 ## Languages:
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
