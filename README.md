@@ -26,7 +26,7 @@ Always been a fan of technology and things related to it. Love coding. Love musi
 <img align="left" alt="Apache" width="30px" src="https://www.apache.org/img/ASF20thAnniversary.jpg" />
 
 <img align="left" alt="Nodejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
-<img align="left" alt="Mysql" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
+<img align="left" alt="Mysql" width="30px" src="https://banner2.cleanpng.com/20180803/abq/kisspng-mysql-cluster-database-management-system-%E4%B8%93-%E9%A2%98-%E5%92%96-%E5%95%A1-%E4%B8%8E-%E4%BB%A3-%E7%A0%81-5b640d8b2a2e53.6067051415332837231728.jpg" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" />
 <img align="left" alt="Backendless" width="30px" src="https://backendless.com/wp-content/uploads/2019/03/square_logo_450x450.png" />
 
